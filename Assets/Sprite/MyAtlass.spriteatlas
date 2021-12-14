@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MyAtlass
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 00b82fbbe5ab2924cad473b080434729, type: 3}
+    - {fileID: 2800000, guid: 989ca677151d72240af63d18d8d03c67, type: 3}
+    - {fileID: 2800000, guid: fa3e8e3592c058647a613977cba0367c, type: 3}
+    - {fileID: 2800000, guid: c3a6bc6e5f8af474787405d182a5c22f, type: 3}
+    - {fileID: 2800000, guid: ea919e11fbfe5084cb5735c9535bc2fc, type: 3}
+    - {fileID: 2800000, guid: 2607ad905c4d69e428c5b157766aee2d, type: 3}
+    - {fileID: 2800000, guid: b42945b956f5d3a478ca7272ad176b74, type: 3}
+    - {fileID: 2800000, guid: c3c15f9945d2b5447aecafd40be69e65, type: 3}
+    - {fileID: 2800000, guid: 0ebb2aef2fc2a1048820810d055cc252, type: 3}
+    - {fileID: 2800000, guid: 0a71fd1fa4e2e5d4599d6cc3c2155f3c, type: 3}
+    - {fileID: 2800000, guid: b6a0f765de1d63740851ed328f1bf4a6, type: 3}
+    - {fileID: 2800000, guid: ce5a1f5aab03b4b4ebe83cf2b2919a0e, type: 3}
+    - {fileID: 2800000, guid: 6782934e56cb93540a1eee76340cde73, type: 3}
+    - {fileID: 2800000, guid: 0e03c12cbf8ca5d45ae04cc7692ec066, type: 3}
+    - {fileID: 2800000, guid: 793dc665621dc5f4ab0bbfd48dcfa78a, type: 3}
+    - {fileID: 2800000, guid: d206c6e9b5be8514cb82ce28502c9a74, type: 3}
+    - {fileID: 2800000, guid: 68e091731a7d73a4a8e47715a0d1ea5c, type: 3}
+    - {fileID: 2800000, guid: 451e1d57512e5324b882a40524bca66b, type: 3}
+    - {fileID: 2800000, guid: fc48e76ab7cbd3348a6e30b9606b7d15, type: 3}
+    - {fileID: 2800000, guid: 271b0addc136fcb478c892a1208c3a5a, type: 3}
+    - {fileID: 2800000, guid: 86e3bec3b2413174185490c876f32a86, type: 3}
+    totalSpriteSurfaceArea: 1020578
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2607ad905c4d69e428c5b157766aee2d, type: 3}
+  - {fileID: 21300000, guid: ea919e11fbfe5084cb5735c9535bc2fc, type: 3}
+  - {fileID: 21300000, guid: 68e091731a7d73a4a8e47715a0d1ea5c, type: 3}
+  - {fileID: 21300000, guid: 86e3bec3b2413174185490c876f32a86, type: 3}
+  - {fileID: 21300000, guid: fa3e8e3592c058647a613977cba0367c, type: 3}
+  - {fileID: 21300000, guid: 793dc665621dc5f4ab0bbfd48dcfa78a, type: 3}
+  - {fileID: 21300000, guid: b6a0f765de1d63740851ed328f1bf4a6, type: 3}
+  - {fileID: 21300000, guid: 451e1d57512e5324b882a40524bca66b, type: 3}
+  - {fileID: 21300000, guid: 989ca677151d72240af63d18d8d03c67, type: 3}
+  - {fileID: 21300000, guid: c3c15f9945d2b5447aecafd40be69e65, type: 3}
+  - {fileID: 21300000, guid: b42945b956f5d3a478ca7272ad176b74, type: 3}
+  - {fileID: 21300000, guid: d206c6e9b5be8514cb82ce28502c9a74, type: 3}
+  - {fileID: 21300000, guid: ce5a1f5aab03b4b4ebe83cf2b2919a0e, type: 3}
+  - {fileID: 21300000, guid: fc48e76ab7cbd3348a6e30b9606b7d15, type: 3}
+  - {fileID: 21300000, guid: 00b82fbbe5ab2924cad473b080434729, type: 3}
+  - {fileID: 21300000, guid: 0e03c12cbf8ca5d45ae04cc7692ec066, type: 3}
+  - {fileID: 21300000, guid: 271b0addc136fcb478c892a1208c3a5a, type: 3}
+  - {fileID: 21300000, guid: 6782934e56cb93540a1eee76340cde73, type: 3}
+  - {fileID: 21300000, guid: c3a6bc6e5f8af474787405d182a5c22f, type: 3}
+  - {fileID: 21300000, guid: 0a71fd1fa4e2e5d4599d6cc3c2155f3c, type: 3}
+  - {fileID: 21300000, guid: 0ebb2aef2fc2a1048820810d055cc252, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Green
+  - 2_cell
+  - repeat_icon
+  - window
+  - 1_cell
+  - Music_off
+  - buttom
+  - Settings 1
+  - 1_cell 1
+  - red
+  - Orange
+  - points
+  - Close
+  - Sound
+  - 1_cell (2) (2)
+  - music_icon
+  - sound_off
+  - figure_window
+  - 2_cell 1
+  - Arrow
+  - Yellow
+  m_RenderDataMap: {}
+  m_Tag: MyAtlass
+  m_IsVariant: 0
